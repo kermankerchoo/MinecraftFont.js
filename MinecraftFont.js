@@ -1,8 +1,10 @@
 /**
  * @name Minecraft Font
- * @author St. Potato
- * @version 2.3.0
- * @description Minecraft Font BOIII
+ * @version 1
+ * @description https://gist.github.com/Wizerdz was the person that had the code, 
+ * all credit goes to that man other than me importing the minecraft font.
+ * @authorLink https://github.com/Wizerdz
+ * @source https://github.com/kermankerchoo/MinecraftFont.js/blob/main/MinecraftFont.js
  */
 
 /*@cc_on
